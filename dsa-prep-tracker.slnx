@@ -1,1 +1,4 @@
-<Solution />
+<Solution>
+  <Project Path="DsaConsoleApp/DsaConsoleApp.csproj" Id="a9aed17b-7173-43a0-9944-6e83777f4c1b" />
+  <Project Path="DsaDAL/DsaDAL.csproj" Id="d67fda69-75b4-4362-96d3-48b5dc767a1c" />
+</Solution>
